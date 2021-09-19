@@ -1,1 +1,15 @@
+> git status
 Não commita pastas vazias, é prciso ter arquivos dentro.
+
+> git add .
+ou
+> git add -A
+add todos os arquivos na fila pra serem versionados
+
+> git commit
+ou
+> git commit -m "cometário do commit"
+os arquivos add são commitados
+
+> git push origin main
+envia os commits para a nuvem
